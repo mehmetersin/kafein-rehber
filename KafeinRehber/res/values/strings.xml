@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KafeinRehber</string>
+    <string name="verifyNumber">Application will send one time SMS to verify your phone number</string>
+    <string name="verifyInput">Phone Number with countty code like "90 532 1234567" </string>
+    <string name="verifyButton">Verify Your Number</string>
+    <string name="action_settings">Settings</string>
+    <string name="some_text"> Şirkette ulaşmak istediğin kişiyi burada bulabilirsin.</string>
+    <string name="some_hint"> Buradan Ara&#8230;</string>
+    <string name="title_activity_pref">PrefActivity</string>
+
+</resources>
